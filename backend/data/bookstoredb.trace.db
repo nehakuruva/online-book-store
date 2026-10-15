@@ -1,0 +1,9 @@
+2026-10-15 13:24:05.280560+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "ITEMS_JSON CHARACTER VARYING(255)": "'{id=3, title=Artificial Intelligence: A Modern Approach, author=Stuart Russell ... (544)"; SQL statement:
+insert into store_orders (created_at,items_json,status,total,user_id,id) values (?,?,?,?,?,default) [22001-224]
+2026-10-15 13:24:34.821849+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "ITEMS_JSON CHARACTER VARYING(255)": "'{id=3, title=Artificial Intelligence: A Modern Approach, author=Stuart Russell ... (544)"; SQL statement:
+insert into store_orders (created_at,items_json,status,total,user_id,id) values (?,?,?,?,?,default) [22001-224]
+2026-10-15 13:24:37.929521+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "ITEMS_JSON CHARACTER VARYING(255)": "'{id=3, title=Artificial Intelligence: A Modern Approach, author=Stuart Russell ... (544)"; SQL statement:
+insert into store_orders (created_at,items_json,status,total,user_id,id) values (?,?,?,?,?,default) [22001-224]

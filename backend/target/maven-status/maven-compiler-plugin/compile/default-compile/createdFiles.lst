@@ -1,0 +1,8 @@
+com\booknest\store\BookStoreApplication.class
+com\booknest\store\StoreController.class
+com\booknest\store\StoreOrder.class
+com\booknest\store\BookRepository.class
+com\booknest\store\UserRepository.class
+com\booknest\store\OrderRepository.class
+com\booknest\store\Book.class
+com\booknest\store\AppUser.class
